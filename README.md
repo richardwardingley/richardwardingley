@@ -19,3 +19,5 @@
 
 
 I have completed a 12-week intensive full-stack software development bootcamp with [Code Nation](https://wearecodenation.com), making multiple projects using various tech stacks.
+
+I've taken a few things off here as I'm currently refactoring to make things a bit more up to scratch!
